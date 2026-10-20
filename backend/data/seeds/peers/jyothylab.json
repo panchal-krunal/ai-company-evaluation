@@ -1,0 +1,202 @@
+{
+  "company": {
+    "name": "Jyothy Labs Ltd",
+    "nse_symbol": "JYOTHYLAB",
+    "bse_code": "532926",
+    "isin": "INE668F01031",
+    "sector": "FMCG - Household & Personal Care",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "FY2025 total assets and equity decline vs FY2024 as reported by source (balance sheet still balances); likely reflects shareholder payouts/investment reclassification - not independently verified.",
+    "FY2022 equity includes negative minority interest of INR -40.65 crore; FY2023/FY2024 include minority interest of INR 2.06/1.90 crore."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Jyothy Labs Ltd - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/JYOTHYLAB/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Jyothy Labs Ltd - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/JYOTHYLAB/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Jyothy Labs Ltd - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/JYOTHYLAB/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 2944.3,
+          "2025-03-31": 2843.9,
+          "2024-03-31": 2756.9,
+          "2023-03-31": 2486.0,
+          "2022-03-31": 2196.8
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 1569.7,
+          "2025-03-31": 1424.0,
+          "2024-03-31": 1413.2,
+          "2023-03-31": 1443.7,
+          "2022-03-31": 1291.0
+        },
+        "gross_profit": {
+          "2026-03-31": 1374.6,
+          "2025-03-31": 1420.0,
+          "2024-03-31": 1343.7,
+          "2023-03-31": 1042.4,
+          "2022-03-31": 905.8
+        },
+        "ebitda": {
+          "2026-03-31": 431.3,
+          "2025-03-31": 483.4,
+          "2024-03-31": 468.1,
+          "2023-03-31": 306.9,
+          "2022-03-31": 239.1
+        },
+        "ebit": {
+          "2026-03-31": 397.7,
+          "2025-03-31": 453.6,
+          "2024-03-31": 440.2,
+          "2023-03-31": 277.4,
+          "2022-03-31": 201.3
+        },
+        "interest_expense": {
+          "2026-03-31": 4.99,
+          "2025-03-31": 5.93,
+          "2024-03-31": 4.73,
+          "2023-03-31": 13.03,
+          "2022-03-31": 11.76
+        },
+        "profit_before_tax": {
+          "2026-03-31": 451.2,
+          "2025-03-31": 489.6,
+          "2024-03-31": 478.8,
+          "2023-03-31": 299.2,
+          "2022-03-31": 196.9
+        },
+        "tax_expense": {
+          "2026-03-31": 118.0,
+          "2025-03-31": 118.4,
+          "2024-03-31": 109.5,
+          "2023-03-31": 59.49,
+          "2022-03-31": 37.79
+        },
+        "net_profit": {
+          "2026-03-31": 333.2,
+          "2025-03-31": 371.2,
+          "2024-03-31": 369.5,
+          "2023-03-31": 239.7,
+          "2022-03-31": 162.0
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 256.6,
+          "2025-03-31": 274.4,
+          "2024-03-31": 201.4,
+          "2023-03-31": 137.8,
+          "2022-03-31": 143.1
+        },
+        "inventory": {
+          "2026-03-31": 344.4,
+          "2025-03-31": 328.1,
+          "2024-03-31": 283.5,
+          "2023-03-31": 301.9,
+          "2022-03-31": 297.2
+        },
+        "total_assets": {
+          "2026-03-31": 2252.4,
+          "2025-03-31": 2023.9,
+          "2024-03-31": 2400.9,
+          "2023-03-31": 2061.7,
+          "2022-03-31": 2022.8
+        },
+        "accounts_payable": {
+          "2026-03-31": 316.6,
+          "2025-03-31": 290.3,
+          "2024-03-31": 276.1,
+          "2023-03-31": 214.4,
+          "2022-03-31": 236.4
+        },
+        "total_debt": {
+          "2026-03-31": 51.58,
+          "2025-03-31": 61.28,
+          "2024-03-31": 50.56,
+          "2023-03-31": 46.53,
+          "2022-03-31": 171.2
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 556.5,
+          "2025-03-31": 510.8,
+          "2024-03-31": 480.5,
+          "2023-03-31": 406.3,
+          "2022-03-31": 520.7
+        },
+        "total_liabilities": {
+          "2026-03-31": 663.8,
+          "2025-03-31": 641.3,
+          "2024-03-31": 590.7,
+          "2023-03-31": 510.7,
+          "2022-03-31": 619.9
+        },
+        "equity": {
+          "2026-03-31": 1588.6,
+          "2025-03-31": 1382.6,
+          "2024-03-31": 1810.2,
+          "2023-03-31": 1551.1,
+          "2022-03-31": 1402.9
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 412.1,
+          "2025-03-31": 311.5,
+          "2024-03-31": 457.9,
+          "2023-03-31": 328.7,
+          "2022-03-31": 202.6
+        },
+        "capex": {
+          "2026-03-31": -66.88,
+          "2025-03-31": -58.12,
+          "2024-03-31": -37.09,
+          "2023-03-31": -35.48,
+          "2022-03-31": -26.05
+        },
+        "free_cash_flow": {
+          "2026-03-31": 345.3,
+          "2025-03-31": 253.4,
+          "2024-03-31": 420.8,
+          "2023-03-31": 293.2,
+          "2022-03-31": 176.5
+        }
+      }
+    }
+  ]
+}

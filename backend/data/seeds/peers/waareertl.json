@@ -1,0 +1,189 @@
+{
+  "company": {
+    "name": "Waaree Renewable Technologies Limited",
+    "nse_symbol": "WAAREERTL",
+    "bse_code": "534618",
+    "isin": "INE299N01021",
+    "sector": "Solar EPC (engineering, procurement & construction)",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "Cost of revenue and gross profit are not published by stockanalysis.com for this company; omitted.",
+    "Very rapid revenue growth (FY2022 161.5 cr to FY2026 3,331.4 cr) reflects EPC order-book scale-up; consistent across source years.",
+    "Equity includes small negative minority interest (FY2026: -0.53 cr)."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Waaree Renewable Technologies Limited - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/WAAREERTL/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Waaree Renewable Technologies Limited - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/WAAREERTL/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Waaree Renewable Technologies Limited - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/WAAREERTL/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 3331.4,
+          "2025-03-31": 1597.7,
+          "2024-03-31": 876.5,
+          "2023-03-31": 351.0,
+          "2022-03-31": 161.5
+        },
+        "ebitda": {
+          "2026-03-31": 641.3,
+          "2025-03-31": 311.5,
+          "2024-03-31": 206.4,
+          "2023-03-31": 83.62,
+          "2022-03-31": 23.5
+        },
+        "ebit": {
+          "2026-03-31": 633.2,
+          "2025-03-31": 305.3,
+          "2024-03-31": 201.2,
+          "2023-03-31": 80.79,
+          "2022-03-31": 19.83
+        },
+        "interest_expense": {
+          "2026-03-31": 4.39,
+          "2025-03-31": 5.42,
+          "2024-03-31": 5.65,
+          "2023-03-31": 5.18,
+          "2022-03-31": 6.89
+        },
+        "profit_before_tax": {
+          "2026-03-31": 639.6,
+          "2025-03-31": 300.5,
+          "2024-03-31": 198.5,
+          "2023-03-31": 77.01,
+          "2022-03-31": 21.22
+        },
+        "tax_expense": {
+          "2026-03-31": 161.0,
+          "2025-03-31": 71.55,
+          "2024-03-31": 53.24,
+          "2023-03-31": 21.68,
+          "2022-03-31": 12.32
+        },
+        "net_profit": {
+          "2026-03-31": 478.7,
+          "2025-03-31": 229.2,
+          "2024-03-31": 145.3,
+          "2023-03-31": 55.42,
+          "2022-03-31": 8.6
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 1172.0,
+          "2025-03-31": 497.7,
+          "2024-03-31": 372.6,
+          "2023-03-31": 61.31,
+          "2022-03-31": 46.53
+        },
+        "inventory": {
+          "2026-03-31": 116.8,
+          "2025-03-31": 6.45,
+          "2024-03-31": 29.17,
+          "2023-03-31": 36.52,
+          "2022-03-31": 1.69
+        },
+        "total_assets": {
+          "2026-03-31": 2373.8,
+          "2025-03-31": 1120.1,
+          "2024-03-31": 714.3,
+          "2023-03-31": 282.7,
+          "2022-03-31": 167.8
+        },
+        "accounts_payable": {
+          "2026-03-31": 771.8,
+          "2025-03-31": 234.3,
+          "2024-03-31": 297.5,
+          "2023-03-31": 74.61,
+          "2022-03-31": 57.98
+        },
+        "total_debt": {
+          "2026-03-31": 145.7,
+          "2025-03-31": 27.37,
+          "2024-03-31": 40.48,
+          "2023-03-31": 38.98,
+          "2022-03-31": 41.84
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 1328.9,
+          "2025-03-31": 612.9,
+          "2024-03-31": 419.2,
+          "2023-03-31": 151.5,
+          "2022-03-31": 90.56
+        },
+        "total_liabilities": {
+          "2026-03-31": 1440.0,
+          "2025-03-31": 665.2,
+          "2024-03-31": 468.0,
+          "2023-03-31": 197.7,
+          "2022-03-31": 137.9
+        },
+        "equity": {
+          "2026-03-31": 933.8,
+          "2025-03-31": 455.0,
+          "2024-03-31": 246.3,
+          "2023-03-31": 85.0,
+          "2022-03-31": 29.85
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 287.0,
+          "2025-03-31": 302.7,
+          "2024-03-31": 127.9,
+          "2023-03-31": 65.15,
+          "2022-03-31": 42.55
+        },
+        "capex": {
+          "2026-03-31": -122.5,
+          "2025-03-31": -101.4,
+          "2024-03-31": -10.78,
+          "2023-03-31": -83.29,
+          "2022-03-31": -6.5
+        },
+        "free_cash_flow": {
+          "2026-03-31": 164.5,
+          "2025-03-31": 201.3,
+          "2024-03-31": 117.1,
+          "2023-03-31": -18.14,
+          "2022-03-31": 36.05
+        }
+      }
+    }
+  ]
+}

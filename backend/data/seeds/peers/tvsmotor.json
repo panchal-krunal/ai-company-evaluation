@@ -1,0 +1,206 @@
+{
+  "company": {
+    "name": "TVS Motor Company Ltd",
+    "nse_symbol": "TVSMOTOR",
+    "bse_code": "532343",
+    "isin": "INE494B01023",
+    "sector": "Automobiles - Two & Three Wheelers",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "Consolidated figures include the captive NBFC TVS Credit Services: revenue includes 'Other Revenue' (largely financing income), interest_expense includes NBFC borrowing cost, and total_debt includes NBFC borrowings. Not directly comparable with pure-play two-wheeler OEMs.",
+    "receivables = 'Accounts Receivable' (trade) only; the broader stockanalysis 'Receivables' line (e.g. 216,416 m FY2026) includes NBFC loan book and is excluded.",
+    "Other Revenue split is uneven (FY2023 118.4 cr vs FY2022 2,752 cr) on the source; total revenue trend (+31.7% FY23, +21.1% FY24, +13.6% FY25, +27.0% FY26) is plausible.",
+    "net_profit is attributable to owners (after minority interest); FY2025 and FY2024 include small discontinued-operations gains. equity includes minority interest.",
+    "Operating cash flow is depressed/negative in several years due to NBFC loan-book growth recorded in working capital.",
+    "Balance check (total_assets - total_liabilities - equity) passes within 0.01% for all years FY2022-FY2026."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "TVS Motor Company Ltd - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/TVSMOTOR/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "TVS Motor Company Ltd - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/TVSMOTOR/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "TVS Motor Company Ltd - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/TVSMOTOR/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 56028.2,
+          "2025-03-31": 44134.1,
+          "2024-03-31": 38864.1,
+          "2023-03-31": 32092.4,
+          "2022-03-31": 24367.5
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 35163.6,
+          "2025-03-31": 27002.3,
+          "2024-03-31": 24460.4,
+          "2023-03-31": 20996.4,
+          "2022-03-31": 16358.3
+        },
+        "gross_profit": {
+          "2026-03-31": 20864.6,
+          "2025-03-31": 17131.8,
+          "2024-03-31": 14403.7,
+          "2023-03-31": 11096.0,
+          "2022-03-31": 8009.2
+        },
+        "ebitda": {
+          "2026-03-31": 7848.5,
+          "2025-03-31": 6282.2,
+          "2024-03-31": 5214.7,
+          "2023-03-31": 3898.5,
+          "2022-03-31": 2566.2
+        },
+        "ebit": {
+          "2026-03-31": 7092.8,
+          "2025-03-31": 5660.9,
+          "2024-03-31": 4615.0,
+          "2023-03-31": 3326.9,
+          "2022-03-31": 2025.7
+        },
+        "interest_expense": {
+          "2026-03-31": 2220.1,
+          "2025-03-31": 2083.2,
+          "2024-03-31": 1905.9,
+          "2023-03-31": 1355.9,
+          "2022-03-31": 882.8
+        },
+        "profit_before_tax": {
+          "2026-03-31": 4821.7,
+          "2025-03-31": 3505.4,
+          "2024-03-31": 2667.6,
+          "2023-03-31": 1936.0,
+          "2022-03-31": 1066.8
+        },
+        "tax_expense": {
+          "2026-03-31": 1635.3,
+          "2025-03-31": 1155.5,
+          "2024-03-31": 914.0,
+          "2023-03-31": 626.6,
+          "2022-03-31": 335.9
+        },
+        "net_profit": {
+          "2026-03-31": 3018.3,
+          "2025-03-31": 2235.6,
+          "2024-03-31": 1686.4,
+          "2023-03-31": 1328.7,
+          "2022-03-31": 756.8
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 2654.1,
+          "2025-03-31": 1716.8,
+          "2024-03-31": 1839.4,
+          "2023-03-31": 1256.4,
+          "2022-03-31": 1177.3
+        },
+        "inventory": {
+          "2026-03-31": 2459.2,
+          "2025-03-31": 2416.6,
+          "2024-03-31": 2248.4,
+          "2023-03-31": 1921.5,
+          "2022-03-31": 1642.4
+        },
+        "total_assets": {
+          "2026-03-31": 56500.6,
+          "2025-03-31": 47936.9,
+          "2024-03-31": 42220.5,
+          "2023-03-31": 35232.9,
+          "2022-03-31": 27126.7
+        },
+        "accounts_payable": {
+          "2026-03-31": 9834.3,
+          "2025-03-31": 7561.3,
+          "2024-03-31": 6638.2,
+          "2023-03-31": 5096.7,
+          "2022-03-31": 4663.1
+        },
+        "total_debt": {
+          "2026-03-31": 32791.0,
+          "2025-03-31": 28608.7,
+          "2024-03-31": 26005.7,
+          "2023-03-31": 22375.6,
+          "2022-03-31": 15827.2
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 32067.7,
+          "2025-03-31": 23173.5,
+          "2024-03-31": 21078.2,
+          "2023-03-31": 19218.7,
+          "2022-03-31": 13906.3
+        },
+        "total_liabilities": {
+          "2026-03-31": 45787.8,
+          "2025-03-31": 38494.6,
+          "2024-03-31": 34709.4,
+          "2023-03-31": 29323.1,
+          "2022-03-31": 22073.7
+        },
+        "equity": {
+          "2026-03-31": 10712.9,
+          "2025-03-31": 9442.3,
+          "2024-03-31": 7511.1,
+          "2023-03-31": 5909.9,
+          "2022-03-31": 5053.0
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 1866.6,
+          "2025-03-31": 3502.9,
+          "2024-03-31": -1252.7,
+          "2023-03-31": -4404.8,
+          "2022-03-31": -1575.2
+        },
+        "capex": {
+          "2026-03-31": -3235.1,
+          "2025-03-31": -2478.1,
+          "2024-03-31": -1145.2,
+          "2023-03-31": -1340.8,
+          "2022-03-31": -969.8
+        },
+        "free_cash_flow": {
+          "2026-03-31": -1368.5,
+          "2025-03-31": 1024.9,
+          "2024-03-31": -2397.8,
+          "2023-03-31": -5745.6,
+          "2022-03-31": -2545.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Reserved status colours: always shown with an icon and label, never colour alone. */
+  --color-status-clear: #0ca30c;
+  --color-status-watch: #fab219;
+  --color-status-flag: #d03b3b;
+}

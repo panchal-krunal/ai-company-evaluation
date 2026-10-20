@@ -1,0 +1,204 @@
+{
+  "company": {
+    "name": "Ola Electric Mobility Ltd",
+    "nse_symbol": "OLAELEC",
+    "bse_code": "544225",
+    "isin": "INE0LXG01040",
+    "sector": "Automobiles - Two & Three Wheelers",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "FY2024-FY2026 values on stockanalysis.com appear rounded to the nearest INR 10 million (INR 1 crore), consistent with the company reporting in crore; FY2022-FY2023 carry finer precision.",
+    "Income tax expense not published (shown as '-') for FY2024 and FY2025; omitted. FY2022/FY2023 tax figures are small credits (negative).",
+    "No minority interest reported; equity = total shareholders' equity.",
+    "Revenue path FY2022 -> FY2026 (373 -> 2,631 -> 5,010 -> 4,514 -> 2,253 cr) reflects ramp-up after FY2022 launch followed by market-share decline; consistent with reported results.",
+    "FY2025 equity jump reflects the August 2024 IPO (INR 55,000 million / 5,500 cr fresh issue in cash flow).",
+    "Balance check (total_assets - total_liabilities - equity) passes within 0.01% for all years FY2022-FY2026."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Ola Electric Mobility Ltd - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/OLAELEC/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Ola Electric Mobility Ltd - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/OLAELEC/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Ola Electric Mobility Ltd - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/OLAELEC/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 2253.0,
+          "2025-03-31": 4514.0,
+          "2024-03-31": 5010.0,
+          "2023-03-31": 2630.9,
+          "2022-03-31": 373.4
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 1595.0,
+          "2025-03-31": 3769.0,
+          "2024-03-31": 4428.0,
+          "2023-03-31": 2665.7,
+          "2022-03-31": 532.8
+        },
+        "gross_profit": {
+          "2026-03-31": 658.0,
+          "2025-03-31": 745.0,
+          "2024-03-31": 582.0,
+          "2023-03-31": -34.79,
+          "2022-03-31": -159.4
+        },
+        "ebitda": {
+          "2026-03-31": -1342.0,
+          "2025-03-31": -2005.0,
+          "2024-03-31": -1425.0,
+          "2023-03-31": -1297.6,
+          "2022-03-31": -789.6
+        },
+        "ebit": {
+          "2026-03-31": -1657.0,
+          "2025-03-31": -2278.0,
+          "2024-03-31": -1608.0,
+          "2023-03-31": -1419.5,
+          "2022-03-31": -817.4
+        },
+        "interest_expense": {
+          "2026-03-31": 346.0,
+          "2025-03-31": 355.0,
+          "2024-03-31": 171.0,
+          "2023-03-31": 89.75,
+          "2022-03-31": 10.77
+        },
+        "profit_before_tax": {
+          "2026-03-31": -1829.0,
+          "2025-03-31": -2276.0,
+          "2024-03-31": -1584.0,
+          "2023-03-31": -1472.3,
+          "2022-03-31": -784.6
+        },
+        "tax_expense": {
+          "2026-03-31": 4.0,
+          "2023-03-31": -0.24,
+          "2022-03-31": -0.5
+        },
+        "net_profit": {
+          "2026-03-31": -1833.0,
+          "2025-03-31": -2276.0,
+          "2024-03-31": -1584.0,
+          "2023-03-31": -1472.1,
+          "2022-03-31": -784.2
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 31.0,
+          "2025-03-31": 9.0,
+          "2024-03-31": 158.0,
+          "2023-03-31": 152.8,
+          "2022-03-31": 17.61
+        },
+        "inventory": {
+          "2026-03-31": 269.0,
+          "2025-03-31": 784.0,
+          "2024-03-31": 694.0,
+          "2023-03-31": 584.0,
+          "2022-03-31": 284.3
+        },
+        "total_assets": {
+          "2026-03-31": 7788.0,
+          "2025-03-31": 11075.0,
+          "2024-03-31": 7735.0,
+          "2023-03-31": 5573.2,
+          "2022-03-31": 5395.9
+        },
+        "accounts_payable": {
+          "2026-03-31": 679.0,
+          "2025-03-31": 951.0,
+          "2024-03-31": 1349.0,
+          "2023-03-31": 693.3,
+          "2022-03-31": 356.8
+        },
+        "total_debt": {
+          "2026-03-31": 2763.0,
+          "2025-03-31": 3556.0,
+          "2024-03-31": 2711.0,
+          "2023-03-31": 1695.8,
+          "2022-03-31": 803.8
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 2849.0,
+          "2025-03-31": 3554.0,
+          "2024-03-31": 4008.0,
+          "2023-03-31": 2350.9,
+          "2022-03-31": 1156.5
+        },
+        "total_liabilities": {
+          "2026-03-31": 4437.0,
+          "2025-03-31": 5932.0,
+          "2024-03-31": 5716.0,
+          "2023-03-31": 3216.7,
+          "2022-03-31": 1734.4
+        },
+        "equity": {
+          "2026-03-31": 3351.0,
+          "2025-03-31": 5143.0,
+          "2024-03-31": 2019.0,
+          "2023-03-31": 2356.4,
+          "2022-03-31": 3661.5
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": -775.0,
+          "2025-03-31": -2391.0,
+          "2024-03-31": -633.0,
+          "2023-03-31": -1507.3,
+          "2022-03-31": -885.0
+        },
+        "capex": {
+          "2026-03-31": -526.0,
+          "2025-03-31": -662.0,
+          "2024-03-31": -925.0,
+          "2023-03-31": -433.6,
+          "2022-03-31": -763.6
+        },
+        "free_cash_flow": {
+          "2026-03-31": -1301.0,
+          "2025-03-31": -3053.0,
+          "2024-03-31": -1558.0,
+          "2023-03-31": -1940.9,
+          "2022-03-31": -1648.5
+        }
+      }
+    }
+  ]
+}

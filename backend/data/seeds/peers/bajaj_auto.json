@@ -1,0 +1,205 @@
+{
+  "company": {
+    "name": "Bajaj Auto Ltd",
+    "nse_symbol": "BAJAJ-AUTO",
+    "bse_code": "532977",
+    "isin": "INE917I01010",
+    "sector": "Automobiles - Two & Three Wheelers",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "stockanalysis.com uses symbol BAJAJ_AUTO (underscore); the BAJAJ-AUTO URL returns 404.",
+    "FY2026 consolidation step-up (inventory, intangibles, debt, minority interest 1,388 cr) reflects consolidation of the KTM / Pierer Bajaj group; FY2026 is not like-for-like with prior years.",
+    "From FY2024 the group includes captive NBFC Bajaj Auto Credit: total_debt and interest_expense rise sharply and operating cash flow (negative in FY2025) reflects loan-book growth.",
+    "total_debt not published ('\u2014') for FY2022-FY2023 (effectively debt-free); omitted rather than set to zero.",
+    "receivables = 'Accounts Receivable' (trade) only; the broader 'Receivables' line (14,509 cr FY2026) includes finance receivables and is excluded.",
+    "Revenue includes 'Other Revenue' (other operating revenue). FY2026 net_profit 10,744.2 cr is attributable to owners after a minority-interest add-back (minority share of losses).",
+    "Balance check (total_assets - total_liabilities - equity) passes within 0.01% for all years FY2022-FY2026."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Bajaj Auto Ltd - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/BAJAJ_AUTO/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Bajaj Auto Ltd - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/BAJAJ_AUTO/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Bajaj Auto Ltd - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/BAJAJ_AUTO/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 63627.4,
+          "2025-03-31": 51860.9,
+          "2024-03-31": 46161.3,
+          "2023-03-31": 37325.0,
+          "2022-03-31": 34287.4
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 42534.6,
+          "2025-03-31": 35366.3,
+          "2024-03-31": 32037.9,
+          "2023-03-31": 26272.7,
+          "2022-03-31": 24478.1
+        },
+        "gross_profit": {
+          "2026-03-31": 21092.8,
+          "2025-03-31": 16494.6,
+          "2024-03-31": 14123.4,
+          "2023-03-31": 11052.3,
+          "2022-03-31": 9809.3
+        },
+        "ebitda": {
+          "2026-03-31": 15009.9,
+          "2025-03-31": 11949.2,
+          "2024-03-31": 10184.8,
+          "2023-03-31": 7441.7,
+          "2022-03-31": 6490.6
+        },
+        "ebit": {
+          "2026-03-31": 14443.1,
+          "2025-03-31": 11539.7,
+          "2024-03-31": 9820.4,
+          "2023-03-31": 7155.9,
+          "2022-03-31": 6220.8
+        },
+        "interest_expense": {
+          "2026-03-31": 1167.6,
+          "2025-03-31": 388.9,
+          "2024-03-31": 60.36,
+          "2023-03-31": 39.51,
+          "2022-03-31": 8.66
+        },
+        "profit_before_tax": {
+          "2026-03-31": 13951.5,
+          "2025-03-31": 10223.5,
+          "2024-03-31": 10040.0,
+          "2023-03-31": 7842.0,
+          "2022-03-31": 7651.7
+        },
+        "tax_expense": {
+          "2026-03-31": 3377.0,
+          "2025-03-31": 2898.8,
+          "2024-03-31": 2331.8,
+          "2023-03-31": 1781.8,
+          "2022-03-31": 1485.8
+        },
+        "net_profit": {
+          "2026-03-31": 10744.2,
+          "2025-03-31": 7324.7,
+          "2024-03-31": 7708.2,
+          "2023-03-31": 6060.2,
+          "2022-03-31": 6165.9
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 3473.4,
+          "2025-03-31": 2125.2,
+          "2024-03-31": 2075.5,
+          "2023-03-31": 1752.4,
+          "2022-03-31": 1516.4
+        },
+        "inventory": {
+          "2026-03-31": 6294.5,
+          "2025-03-31": 2077.4,
+          "2024-03-31": 1688.8,
+          "2023-03-31": 1563.6,
+          "2022-03-31": 1230.5
+        },
+        "total_assets": {
+          "2026-03-31": 77223.0,
+          "2025-03-31": 54198.6,
+          "2024-03-31": 39365.7,
+          "2023-03-31": 35136.5,
+          "2022-03-31": 35111.2
+        },
+        "accounts_payable": {
+          "2026-03-31": 8804.0,
+          "2025-03-31": 6372.7,
+          "2024-03-31": 5580.8,
+          "2023-03-31": 4121.2,
+          "2022-03-31": 3632.2
+        },
+        "total_debt": {
+          "2026-03-31": 22665.0,
+          "2025-03-31": 9255.1,
+          "2024-03-31": 1785.9
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 19338.2,
+          "2025-03-31": 11583.8,
+          "2024-03-31": 9099.4,
+          "2023-03-31": 5270.7,
+          "2022-03-31": 4688.5
+        },
+        "total_liabilities": {
+          "2026-03-31": 37002.6,
+          "2025-03-31": 19009.9,
+          "2024-03-31": 10403.3,
+          "2023-03-31": 5774.9,
+          "2022-03-31": 5251.6
+        },
+        "equity": {
+          "2026-03-31": 40220.4,
+          "2025-03-31": 35188.8,
+          "2024-03-31": 28962.4,
+          "2023-03-31": 29361.6,
+          "2022-03-31": 29859.7
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 2596.6,
+          "2025-03-31": -1405.6,
+          "2024-03-31": 6551.5,
+          "2023-03-31": 5277.4,
+          "2022-03-31": 4197.2
+        },
+        "capex": {
+          "2026-03-31": -560.4,
+          "2025-03-31": -813.5,
+          "2024-03-31": -706.5,
+          "2023-03-31": -1074.5,
+          "2022-03-31": -550.8
+        },
+        "free_cash_flow": {
+          "2026-03-31": 2036.2,
+          "2025-03-31": -2219.1,
+          "2024-03-31": 5845.1,
+          "2023-03-31": 4203.0,
+          "2022-03-31": 3646.5
+        }
+      }
+    }
+  ]
+}

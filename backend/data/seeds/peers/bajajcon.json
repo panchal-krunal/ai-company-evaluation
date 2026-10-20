@@ -1,0 +1,201 @@
+{
+  "company": {
+    "name": "Bajaj Consumer Care Ltd",
+    "nse_symbol": "BAJAJCON",
+    "bse_code": "533229",
+    "isin": "INE933K01021",
+    "sector": "FMCG - Personal Care",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "Total debt for FY2022 not published (shown as '-') on stockanalysis.com; omitted.",
+    "No minority interest shown; equity = total shareholders' equity."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Bajaj Consumer Care Ltd - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/BAJAJCON/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Bajaj Consumer Care Ltd - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/BAJAJCON/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Bajaj Consumer Care Ltd - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/BAJAJCON/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 1164.7,
+          "2025-03-31": 964.8,
+          "2024-03-31": 984.1,
+          "2023-03-31": 960.9,
+          "2022-03-31": 880.0
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 461.5,
+          "2025-03-31": 442.5,
+          "2024-03-31": 444.1,
+          "2023-03-31": 441.7,
+          "2022-03-31": 370.7
+        },
+        "gross_profit": {
+          "2026-03-31": 703.2,
+          "2025-03-31": 522.3,
+          "2024-03-31": 540.0,
+          "2023-03-31": 519.2,
+          "2022-03-31": 509.3
+        },
+        "ebitda": {
+          "2026-03-31": 215.6,
+          "2025-03-31": 122.6,
+          "2024-03-31": 150.3,
+          "2023-03-31": 138.1,
+          "2022-03-31": 173.6
+        },
+        "ebit": {
+          "2026-03-31": 206.1,
+          "2025-03-31": 117.7,
+          "2024-03-31": 145.5,
+          "2023-03-31": 133.1,
+          "2022-03-31": 169.4
+        },
+        "interest_expense": {
+          "2026-03-31": 1.59,
+          "2025-03-31": 0.54,
+          "2024-03-31": 1.02,
+          "2023-03-31": 0.97,
+          "2022-03-31": 0.88
+        },
+        "profit_before_tax": {
+          "2026-03-31": 231.4,
+          "2025-03-31": 152.8,
+          "2024-03-31": 189.0,
+          "2023-03-31": 168.8,
+          "2022-03-31": 206.5
+        },
+        "tax_expense": {
+          "2026-03-31": 41.19,
+          "2025-03-31": 27.5,
+          "2024-03-31": 33.61,
+          "2023-03-31": 29.57,
+          "2022-03-31": 36.84
+        },
+        "net_profit": {
+          "2026-03-31": 190.2,
+          "2025-03-31": 125.3,
+          "2024-03-31": 155.4,
+          "2023-03-31": 139.2,
+          "2022-03-31": 169.6
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 75.62,
+          "2025-03-31": 71.83,
+          "2024-03-31": 43.99,
+          "2023-03-31": 30.44,
+          "2022-03-31": 19.13
+        },
+        "inventory": {
+          "2026-03-31": 66.12,
+          "2025-03-31": 54.75,
+          "2024-03-31": 56.22,
+          "2023-03-31": 51.28,
+          "2022-03-31": 57.09
+        },
+        "total_assets": {
+          "2026-03-31": 945.1,
+          "2025-03-31": 901.1,
+          "2024-03-31": 983.6,
+          "2023-03-31": 924.4,
+          "2022-03-31": 931.5
+        },
+        "accounts_payable": {
+          "2026-03-31": 42.45,
+          "2025-03-31": 49.92,
+          "2024-03-31": 40.18,
+          "2023-03-31": 45.04,
+          "2022-03-31": 45.54
+        },
+        "total_debt": {
+          "2026-03-31": 15.8,
+          "2025-03-31": 4.17,
+          "2024-03-31": 8.75,
+          "2023-03-31": 9.28
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 174.0,
+          "2025-03-31": 145.8,
+          "2024-03-31": 144.2,
+          "2023-03-31": 124.8,
+          "2022-03-31": 118.1
+        },
+        "total_liabilities": {
+          "2026-03-31": 190.1,
+          "2025-03-31": 153.2,
+          "2024-03-31": 153.0,
+          "2023-03-31": 134.7,
+          "2022-03-31": 121.8
+        },
+        "equity": {
+          "2026-03-31": 755.0,
+          "2025-03-31": 747.9,
+          "2024-03-31": 830.6,
+          "2023-03-31": 789.7,
+          "2022-03-31": 809.6
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 196.9,
+          "2025-03-31": 65.1,
+          "2024-03-31": 116.3,
+          "2023-03-31": 101.5,
+          "2022-03-31": 128.5
+        },
+        "capex": {
+          "2026-03-31": -32.85,
+          "2025-03-31": -5.38,
+          "2024-03-31": -4.26,
+          "2023-03-31": -6.41,
+          "2022-03-31": -10.7
+        },
+        "free_cash_flow": {
+          "2026-03-31": 164.1,
+          "2025-03-31": 59.72,
+          "2024-03-31": 112.1,
+          "2023-03-31": 95.04,
+          "2022-03-31": 117.8
+        }
+      }
+    }
+  ]
+}

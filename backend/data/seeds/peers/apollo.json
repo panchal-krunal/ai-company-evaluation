@@ -1,0 +1,202 @@
+{
+  "company": {
+    "name": "Apollo Micro Systems Limited",
+    "nse_symbol": "APOLLO",
+    "bse_code": "540879",
+    "isin": "INE713T01028",
+    "sector": "Aerospace & Defence - Defence Electronics",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "FY2026 revenue +61% and total assets +82% YoY; source shows minority interest turning negative (-48.75 INR million) in FY2026, consistent with a change in group structure (subsidiary acquisition/consolidation) - verify against annual report if precision matters.",
+    "Equity includes minority interest; net_profit is attributable to owners (source adds back +55.4 INR million minority share of losses in FY2026)."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Apollo Micro Systems - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/APOLLO/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Apollo Micro Systems - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/APOLLO/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Apollo Micro Systems - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/APOLLO/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 904.3,
+          "2025-03-31": 562.1,
+          "2024-03-31": 371.6,
+          "2023-03-31": 297.5,
+          "2022-03-31": 243.2
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 610.0,
+          "2025-03-31": 397.4,
+          "2024-03-31": 259.2,
+          "2023-03-31": 210.4,
+          "2022-03-31": 181.8
+        },
+        "gross_profit": {
+          "2026-03-31": 294.3,
+          "2025-03-31": 164.7,
+          "2024-03-31": 112.4,
+          "2023-03-31": 87.16,
+          "2022-03-31": 61.43
+        },
+        "ebitda": {
+          "2026-03-31": 223.0,
+          "2025-03-31": 128.9,
+          "2024-03-31": 83.63,
+          "2023-03-31": 64.22,
+          "2022-03-31": 45.65
+        },
+        "ebit": {
+          "2026-03-31": 203.1,
+          "2025-03-31": 114.7,
+          "2024-03-31": 72.74,
+          "2023-03-31": 53.99,
+          "2022-03-31": 36.67
+        },
+        "interest_expense": {
+          "2026-03-31": 39.92,
+          "2025-03-31": 20.89,
+          "2024-03-31": 14.92,
+          "2023-03-31": 12.02,
+          "2022-03-31": 11.41
+        },
+        "profit_before_tax": {
+          "2026-03-31": 154.8,
+          "2025-03-31": 82.55,
+          "2024-03-31": 44.09,
+          "2023-03-31": 28.96,
+          "2022-03-31": 20.25
+        },
+        "tax_expense": {
+          "2026-03-31": 47.42,
+          "2025-03-31": 26.19,
+          "2024-03-31": 12.99,
+          "2023-03-31": 10.22,
+          "2022-03-31": 5.64
+        },
+        "net_profit": {
+          "2026-03-31": 112.9,
+          "2025-03-31": 56.4,
+          "2024-03-31": 31.12,
+          "2023-03-31": 18.75,
+          "2022-03-31": 14.62
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 480.9,
+          "2025-03-31": 238.3,
+          "2024-03-31": 235.3,
+          "2023-03-31": 146.6,
+          "2022-03-31": 136.4
+        },
+        "inventory": {
+          "2026-03-31": 965.1,
+          "2025-03-31": 696.1,
+          "2024-03-31": 489.7,
+          "2023-03-31": 377.5,
+          "2022-03-31": 318.7
+        },
+        "total_assets": {
+          "2026-03-31": 2368.1,
+          "2025-03-31": 1299.5,
+          "2024-03-31": 956.2,
+          "2023-03-31": 692.6,
+          "2022-03-31": 599.2
+        },
+        "accounts_payable": {
+          "2026-03-31": 382.0,
+          "2025-03-31": 279.9,
+          "2024-03-31": 169.1,
+          "2023-03-31": 112.3,
+          "2022-03-31": 128.1
+        },
+        "total_debt": {
+          "2026-03-31": 543.3,
+          "2025-03-31": 335.3,
+          "2024-03-31": 208.0,
+          "2023-03-31": 143.7,
+          "2022-03-31": 115.8
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 874.4,
+          "2025-03-31": 577.1,
+          "2024-03-31": 391.8,
+          "2023-03-31": 278.9,
+          "2022-03-31": 257.8
+        },
+        "total_liabilities": {
+          "2026-03-31": 1059.9,
+          "2025-03-31": 691.9,
+          "2024-03-31": 437.0,
+          "2023-03-31": 308.4,
+          "2022-03-31": 279.2
+        },
+        "equity": {
+          "2026-03-31": 1308.2,
+          "2025-03-31": 607.6,
+          "2024-03-31": 519.2,
+          "2023-03-31": 384.2,
+          "2022-03-31": 320.0
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": -129.8,
+          "2025-03-31": 10.24,
+          "2024-03-31": -75.83,
+          "2023-03-31": -16.29,
+          "2022-03-31": 43.18
+        },
+        "capex": {
+          "2026-03-31": -227.6,
+          "2025-03-31": -92.22,
+          "2024-03-31": -55.49,
+          "2023-03-31": -33.41,
+          "2022-03-31": -22.74
+        },
+        "free_cash_flow": {
+          "2026-03-31": -357.4,
+          "2025-03-31": -81.98,
+          "2024-03-31": -131.3,
+          "2023-03-31": -49.7,
+          "2022-03-31": 20.44
+        }
+      }
+    }
+  ]
+}

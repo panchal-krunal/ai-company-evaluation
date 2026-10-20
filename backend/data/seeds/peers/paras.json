@@ -1,0 +1,202 @@
+{
+  "company": {
+    "name": "Paras Defence and Space Technologies Limited",
+    "nse_symbol": "PARAS",
+    "bse_code": "543367",
+    "isin": "INE045601023",
+    "sector": "Aerospace & Defence - Defence Electronics",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "Equity includes (negative) minority interest: FY2026 -2.46, FY2025 -33.18, FY2024 -13.38 INR million.",
+    "net_profit is attributable to owners (after minority interest)."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Paras Defence and Space Technologies - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/PARAS/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Paras Defence and Space Technologies - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/PARAS/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Paras Defence and Space Technologies - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/PARAS/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 476.8,
+          "2025-03-31": 365.0,
+          "2024-03-31": 253.6,
+          "2023-03-31": 222.8,
+          "2022-03-31": 183.5
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 241.9,
+          "2025-03-31": 172.1,
+          "2024-03-31": 122.5,
+          "2023-03-31": 107.0,
+          "2022-03-31": 82.36
+        },
+        "gross_profit": {
+          "2026-03-31": 234.9,
+          "2025-03-31": 192.9,
+          "2024-03-31": 131.1,
+          "2023-03-31": 115.8,
+          "2022-03-31": 101.1
+        },
+        "ebitda": {
+          "2026-03-31": 119.6,
+          "2025-03-31": 97.35,
+          "2024-03-31": 51.1,
+          "2023-03-31": 57.94,
+          "2022-03-31": 52.92
+        },
+        "ebit": {
+          "2026-03-31": 103.9,
+          "2025-03-31": 83.11,
+          "2024-03-31": 38.01,
+          "2023-03-31": 46.74,
+          "2022-03-31": 42.59
+        },
+        "interest_expense": {
+          "2026-03-31": 3.62,
+          "2025-03-31": 5.38,
+          "2024-03-31": 4.1,
+          "2023-03-31": 5.62,
+          "2022-03-31": 7.11
+        },
+        "profit_before_tax": {
+          "2026-03-31": 117.7,
+          "2025-03-31": 83.6,
+          "2024-03-31": 40.47,
+          "2023-03-31": 46.84,
+          "2022-03-31": 36.57
+        },
+        "tax_expense": {
+          "2026-03-31": 28.21,
+          "2025-03-31": 22.11,
+          "2024-03-31": 10.43,
+          "2023-03-31": 10.9,
+          "2022-03-31": 9.5
+        },
+        "net_profit": {
+          "2026-03-31": 88.1,
+          "2025-03-31": 63.47,
+          "2024-03-31": 32.06,
+          "2023-03-31": 36.06,
+          "2022-03-31": 27.04
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 363.0,
+          "2025-03-31": 295.8,
+          "2024-03-31": 197.9,
+          "2023-03-31": 149.9,
+          "2022-03-31": 123.0
+        },
+        "inventory": {
+          "2026-03-31": 159.6,
+          "2025-03-31": 150.9,
+          "2024-03-31": 150.2,
+          "2023-03-31": 93.39,
+          "2022-03-31": 66.63
+        },
+        "total_assets": {
+          "2026-03-31": 964.7,
+          "2025-03-31": 852.0,
+          "2024-03-31": 639.7,
+          "2023-03-31": 520.5,
+          "2022-03-31": 457.7
+        },
+        "accounts_payable": {
+          "2026-03-31": 57.23,
+          "2025-03-31": 54.59,
+          "2024-03-31": 60.98,
+          "2023-03-31": 26.12,
+          "2022-03-31": 15.27
+        },
+        "total_debt": {
+          "2026-03-31": 27.05,
+          "2025-03-31": 24.02,
+          "2024-03-31": 65.8,
+          "2023-03-31": 14.62,
+          "2022-03-31": 31.08
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 213.9,
+          "2025-03-31": 191.0,
+          "2024-03-31": 170.7,
+          "2023-03-31": 82.95,
+          "2022-03-31": 56.47
+        },
+        "total_liabilities": {
+          "2026-03-31": 239.5,
+          "2025-03-31": 215.3,
+          "2024-03-31": 196.5,
+          "2023-03-31": 107.1,
+          "2022-03-31": 79.15
+        },
+        "equity": {
+          "2026-03-31": 725.2,
+          "2025-03-31": 636.6,
+          "2024-03-31": 443.3,
+          "2023-03-31": 413.5,
+          "2022-03-31": 378.5
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 24.61,
+          "2025-03-31": 44.83,
+          "2024-03-31": -45.54,
+          "2023-03-31": 45.73,
+          "2022-03-31": 11.51
+        },
+        "capex": {
+          "2026-03-31": -37.79,
+          "2025-03-31": -35.23,
+          "2024-03-31": -26.01,
+          "2023-03-31": -25.33,
+          "2022-03-31": -8.61
+        },
+        "free_cash_flow": {
+          "2026-03-31": -13.18,
+          "2025-03-31": 9.6,
+          "2024-03-31": -71.55,
+          "2023-03-31": 20.4,
+          "2022-03-31": 2.91
+        }
+      }
+    }
+  ]
+}

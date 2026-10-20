@@ -1,0 +1,203 @@
+{
+  "company": {
+    "name": "Hero MotoCorp Ltd",
+    "nse_symbol": "HEROMOTOCO",
+    "bse_code": "500182",
+    "isin": "INE158A01026",
+    "sector": "Automobiles - Two & Three Wheelers",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "net_profit is attributable to owners (after minority interest / associate adjustments); equity includes minority interest.",
+    "receivables = 'Accounts Receivable' (trade) only.",
+    "Balance check (total_assets - total_liabilities - equity) passes within 0.01% for all years FY2022-FY2026."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Hero MotoCorp Ltd - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/HEROMOTOCO/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Hero MotoCorp Ltd - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/HEROMOTOCO/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Hero MotoCorp Ltd - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/HEROMOTOCO/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 47411.2,
+          "2025-03-31": 40923.4,
+          "2024-03-31": 37788.6,
+          "2023-03-31": 34158.4,
+          "2022-03-31": 29551.3
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 31899.2,
+          "2025-03-31": 27110.2,
+          "2024-03-31": 25681.7,
+          "2023-03-31": 24098.7,
+          "2022-03-31": 21067.4
+        },
+        "gross_profit": {
+          "2026-03-31": 15512.0,
+          "2025-03-31": 13813.2,
+          "2024-03-31": 12107.0,
+          "2023-03-31": 10059.7,
+          "2022-03-31": 8483.9
+        },
+        "ebitda": {
+          "2026-03-31": 6818.1,
+          "2025-03-31": 5776.8,
+          "2024-03-31": 5179.7,
+          "2023-03-31": 4040.4,
+          "2022-03-31": 3383.6
+        },
+        "ebit": {
+          "2026-03-31": 6203.9,
+          "2025-03-31": 5163.2,
+          "2024-03-31": 4585.6,
+          "2023-03-31": 3448.6,
+          "2022-03-31": 2778.1
+        },
+        "interest_expense": {
+          "2026-03-31": 58.17,
+          "2025-03-31": 53.04,
+          "2024-03-31": 60.06,
+          "2023-03-31": 86.85,
+          "2022-03-31": 29.42
+        },
+        "profit_before_tax": {
+          "2026-03-31": 7435.6,
+          "2025-03-31": 5933.6,
+          "2024-03-31": 5090.2,
+          "2023-03-31": 3863.6,
+          "2022-03-31": 3058.1
+        },
+        "tax_expense": {
+          "2026-03-31": 1659.9,
+          "2025-03-31": 1557.8,
+          "2024-03-31": 1348.0,
+          "2023-03-31": 1063.7,
+          "2022-03-31": 729.1
+        },
+        "net_profit": {
+          "2026-03-31": 5741.7,
+          "2025-03-31": 4378.5,
+          "2024-03-31": 3744.8,
+          "2023-03-31": 2810.0,
+          "2022-03-31": 2316.9
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 2392.7,
+          "2025-03-31": 3434.7,
+          "2024-03-31": 2860.6,
+          "2023-03-31": 3224.2,
+          "2022-03-31": 2553.6
+        },
+        "inventory": {
+          "2026-03-31": 2650.1,
+          "2025-03-31": 2013.3,
+          "2024-03-31": 1755.9,
+          "2023-03-31": 1756.4,
+          "2022-03-31": 1472.4
+        },
+        "total_assets": {
+          "2026-03-31": 33452.6,
+          "2025-03-31": 28390.3,
+          "2024-03-31": 26152.8,
+          "2023-03-31": 23917.0,
+          "2022-03-31": 22478.4
+        },
+        "accounts_payable": {
+          "2026-03-31": 7676.3,
+          "2025-03-31": 5699.7,
+          "2024-03-31": 5622.9,
+          "2023-03-31": 4760.1,
+          "2022-03-31": 4343.1
+        },
+        "total_debt": {
+          "2026-03-31": 778.6,
+          "2025-03-31": 699.9,
+          "2024-03-31": 606.4,
+          "2023-03-31": 567.5,
+          "2022-03-31": 605.2
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 9904.3,
+          "2025-03-31": 7476.0,
+          "2024-03-31": 7048.4,
+          "2023-03-31": 6012.6,
+          "2022-03-31": 5517.6
+        },
+        "total_liabilities": {
+          "2026-03-31": 11641.6,
+          "2025-03-31": 8986.2,
+          "2024-03-31": 8318.2,
+          "2023-03-31": 7136.4,
+          "2022-03-31": 6483.7
+        },
+        "equity": {
+          "2026-03-31": 21811.0,
+          "2025-03-31": 19404.1,
+          "2024-03-31": 17834.6,
+          "2023-03-31": 16780.6,
+          "2022-03-31": 15994.7
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 8314.6,
+          "2025-03-31": 4297.4,
+          "2024-03-31": 4923.1,
+          "2023-03-31": 2613.8,
+          "2022-03-31": 2103.7
+        },
+        "capex": {
+          "2026-03-31": -1100.1,
+          "2025-03-31": -856.6,
+          "2024-03-31": -787.9,
+          "2023-03-31": -604.3,
+          "2022-03-31": -569.7
+        },
+        "free_cash_flow": {
+          "2026-03-31": 7214.5,
+          "2025-03-31": 3440.8,
+          "2024-03-31": 4135.2,
+          "2023-03-31": 2009.6,
+          "2022-03-31": 1534.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "company": {
+    "name": "Emami Ltd",
+    "nse_symbol": "EMAMILTD",
+    "bse_code": "531162",
+    "isin": "INE548C01032",
+    "sector": "FMCG - Personal Care",
+    "company_type": "non_financial"
+  },
+  "retrieved_on": "2026-10-06",
+  "notes": [
+    "Secondary source (stockanalysis.com, compiled from filings); annual INR million converted to INR crore.",
+    "FY2022 tax expense is a net credit (INR -148.7 crore) as reported by source, so FY2022 net profit exceeds PBT.",
+    "FY2022 capex of INR 483.6 crore is far above other years as reported by source (likely includes acquisition of brands/intangibles); free cash flow FY2022 correspondingly low.",
+    "Equity includes minority interest (FY2026 INR -1.54 crore, FY2025 -1.43, FY2024 11.12, FY2023 9.97, FY2022 -2.30)."
+  ],
+  "sources": {
+    "sa_income": {
+      "title": "Emami Ltd - annual income statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/EMAMILTD/financials/income-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_balance": {
+      "title": "Emami Ltd - annual balance sheet (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/EMAMILTD/financials/balance-sheet/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    },
+    "sa_cashflow": {
+      "title": "Emami Ltd - annual cash flow statement (consolidated)",
+      "url": "https://stockanalysis.com/quote/nse/EMAMILTD/financials/cash-flow-statement/",
+      "publisher": "stockanalysis.com",
+      "is_primary": false
+    }
+  },
+  "facts": [
+    {
+      "source": "sa_income",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "revenue": {
+          "2026-03-31": 3779.5,
+          "2025-03-31": 3809.2,
+          "2024-03-31": 3578.1,
+          "2023-03-31": 3405.7,
+          "2022-03-31": 3187.2
+        },
+        "cost_of_revenue": {
+          "2026-03-31": 1176.8,
+          "2025-03-31": 1232.7,
+          "2024-03-31": 1200.2,
+          "2023-03-31": 1240.0,
+          "2022-03-31": 1103.8
+        },
+        "gross_profit": {
+          "2026-03-31": 2602.7,
+          "2025-03-31": 2576.4,
+          "2024-03-31": 2377.9,
+          "2023-03-31": 2165.7,
+          "2022-03-31": 2083.4
+        },
+        "ebitda": {
+          "2026-03-31": 950.3,
+          "2025-03-31": 1013.5,
+          "2024-03-31": 938.4,
+          "2023-03-31": 856.4,
+          "2022-03-31": 946.8
+        },
+        "ebit": {
+          "2026-03-31": 793.3,
+          "2025-03-31": 853.7,
+          "2024-03-31": 770.4,
+          "2023-03-31": 638.7,
+          "2022-03-31": 623.0
+        },
+        "interest_expense": {
+          "2026-03-31": 11.13,
+          "2025-03-31": 9.34,
+          "2024-03-31": 9.98,
+          "2023-03-31": 7.39,
+          "2022-03-31": 5.07
+        },
+        "profit_before_tax": {
+          "2026-03-31": 846.1,
+          "2025-03-31": 893.9,
+          "2024-03-31": 790.8,
+          "2023-03-31": 669.5,
+          "2022-03-31": 688.0
+        },
+        "tax_expense": {
+          "2026-03-31": 70.81,
+          "2025-03-31": 91.12,
+          "2024-03-31": 66.7,
+          "2023-03-31": 42.14,
+          "2022-03-31": -148.7
+        },
+        "net_profit": {
+          "2026-03-31": 775.3,
+          "2025-03-31": 806.5,
+          "2024-03-31": 723.5,
+          "2023-03-31": 639.6,
+          "2022-03-31": 839.0
+        }
+      }
+    },
+    {
+      "source": "sa_balance",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "receivables": {
+          "2026-03-31": 343.3,
+          "2025-03-31": 451.3,
+          "2024-03-31": 494.2,
+          "2023-03-31": 414.6,
+          "2022-03-31": 320.9
+        },
+        "inventory": {
+          "2026-03-31": 399.6,
+          "2025-03-31": 308.1,
+          "2024-03-31": 323.4,
+          "2023-03-31": 360.4,
+          "2022-03-31": 389.8
+        },
+        "total_assets": {
+          "2026-03-31": 3836.4,
+          "2025-03-31": 3533.6,
+          "2024-03-31": 3279.7,
+          "2023-03-31": 3109.9,
+          "2022-03-31": 3057.5
+        },
+        "accounts_payable": {
+          "2026-03-31": 477.1,
+          "2025-03-31": 435.6,
+          "2024-03-31": 454.6,
+          "2023-03-31": 407.1,
+          "2022-03-31": 408.7
+        },
+        "total_debt": {
+          "2026-03-31": 161.9,
+          "2025-03-31": 89.79,
+          "2024-03-31": 93.96,
+          "2023-03-31": 90.51,
+          "2022-03-31": 281.6
+        },
+        "total_current_liabilities": {
+          "2026-03-31": 838.2,
+          "2025-03-31": 779.3,
+          "2024-03-31": 758.8,
+          "2023-03-31": 723.9,
+          "2022-03-31": 915.7
+        },
+        "total_liabilities": {
+          "2026-03-31": 914.0,
+          "2025-03-31": 840.3,
+          "2024-03-31": 822.0,
+          "2023-03-31": 797.1,
+          "2022-03-31": 983.2
+        },
+        "equity": {
+          "2026-03-31": 2922.4,
+          "2025-03-31": 2693.4,
+          "2024-03-31": 2457.7,
+          "2023-03-31": 2312.8,
+          "2022-03-31": 2074.3
+        }
+      }
+    },
+    {
+      "source": "sa_cashflow",
+      "period_type": "FY",
+      "basis": "consolidated",
+      "unit": "INR_CR",
+      "metrics": {
+        "operating_cash_flow": {
+          "2026-03-31": 800.5,
+          "2025-03-31": 895.9,
+          "2024-03-31": 779.0,
+          "2023-03-31": 748.9,
+          "2022-03-31": 643.9
+        },
+        "capex": {
+          "2026-03-31": -43.31,
+          "2025-03-31": -44.57,
+          "2024-03-31": -40.59,
+          "2023-03-31": -40.46,
+          "2022-03-31": -483.6
+        },
+        "free_cash_flow": {
+          "2026-03-31": 757.2,
+          "2025-03-31": 851.3,
+          "2024-03-31": 738.4,
+          "2023-03-31": 708.4,
+          "2022-03-31": 160.3
+        }
+      }
+    }
+  ]
+}
